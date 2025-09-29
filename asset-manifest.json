@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Furni/static/css/main.ba520a30.css",
+    "main.js": "/Furni/static/js/main.da95df39.js",
+    "index.html": "/Furni/index.html",
+    "main.ba520a30.css.map": "/Furni/static/css/main.ba520a30.css.map",
+    "main.da95df39.js.map": "/Furni/static/js/main.da95df39.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ba520a30.css",
+    "static/js/main.da95df39.js"
+  ]
+}
