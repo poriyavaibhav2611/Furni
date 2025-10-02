@@ -1,13 +1,37 @@
 {
   "files": {
-    "main.css": "/Furni/static/css/main.ba520a30.css",
-    "main.js": "/Furni/static/js/main.b92f1f49.js",
-    "index.html": "/Furni/index.html",
-    "main.ba520a30.css.map": "/Furni/static/css/main.ba520a30.css.map",
-    "main.b92f1f49.js.map": "/Furni/static/js/main.b92f1f49.js.map"
+    "main.css": "/poriyavaibhav2611/Furni/static/css/main.ba520a30.css",
+    "main.js": "/poriyavaibhav2611/Furni/static/js/main.bf487588.js",
+    "static/media/img-grid-1.jpg": "/poriyavaibhav2611/Furni/static/media/img-grid-1.ad8ba13496a1834763e0.jpg",
+    "static/media/why-choose-us-img.jpg": "/poriyavaibhav2611/Furni/static/media/why-choose-us-img.afb2571022e4d5a42915.jpg",
+    "static/media/post-2.jpg": "/poriyavaibhav2611/Furni/static/media/post-2.6c8ac20b2ce55eb93c55.jpg",
+    "static/media/couch.png": "/poriyavaibhav2611/Furni/static/media/couch.7a344a6302c235396f60.png",
+    "static/media/post-3.jpg": "/poriyavaibhav2611/Furni/static/media/post-3.fe3ce5306db37c27bf32.jpg",
+    "static/media/post-1.jpg": "/poriyavaibhav2611/Furni/static/media/post-1.2215ba0870c6839035d0.jpg",
+    "static/media/img-grid-3.jpg": "/poriyavaibhav2611/Furni/static/media/img-grid-3.70252b841cf43ed93793.jpg",
+    "static/media/img-grid-2.jpg": "/poriyavaibhav2611/Furni/static/media/img-grid-2.0ff4a802bbb7eb26cee1.jpg",
+    "static/media/product-2.png": "/poriyavaibhav2611/Furni/static/media/product-2.2c7c1dfd7461612e3886.png",
+    "static/media/product-3.png": "/poriyavaibhav2611/Furni/static/media/product-3.9a7701e22aabf396c0f3.png",
+    "static/media/product-1.png": "/poriyavaibhav2611/Furni/static/media/product-1.b3c19796dccb13fbd0b3.png",
+    "static/media/person_1.jpg": "/poriyavaibhav2611/Furni/static/media/person_1.3b349ed7d06859f8fc58.jpg",
+    "static/media/person-1.png": "/poriyavaibhav2611/Furni/static/media/person-1.1b23aa01689732512698.png",
+    "static/media/person_4.jpg": "/poriyavaibhav2611/Furni/static/media/person_4.e140471939f87b3752ba.jpg",
+    "static/media/person_3.jpg": "/poriyavaibhav2611/Furni/static/media/person_3.5fc16e3352daa95e18a3.jpg",
+    "static/media/person_2.jpg": "/poriyavaibhav2611/Furni/static/media/person_2.9e118a766a1a194ae477.jpg",
+    "static/media/support.svg": "/poriyavaibhav2611/Furni/static/media/support.9d26dea71aab9142a5629d38f2287c2e.svg",
+    "static/media/truck.svg": "/poriyavaibhav2611/Furni/static/media/truck.66e1c9ecc38ff585449d328dc23700fc.svg",
+    "index.html": "/poriyavaibhav2611/Furni/index.html",
+    "static/media/envelope-outline.svg": "/poriyavaibhav2611/Furni/static/media/envelope-outline.a75c498de4e44335919e66cd96296e67.svg",
+    "static/media/cart.svg": "/poriyavaibhav2611/Furni/static/media/cart.1634d36d55fedcb992d12b79bf27dddd.svg",
+    "static/media/return.svg": "/poriyavaibhav2611/Furni/static/media/return.d5d64cfebfacde8f05fd6c4bb3b51521.svg",
+    "static/media/bag.svg": "/poriyavaibhav2611/Furni/static/media/bag.32d7cc1dfb3dabdcef4ccc1966a6b994.svg",
+    "static/media/user.svg": "/poriyavaibhav2611/Furni/static/media/user.7621a47e29a2c99048c21b2cf412c7c7.svg",
+    "static/media/cross.svg": "/poriyavaibhav2611/Furni/static/media/cross.f55a0e29baa16101e78afdaa658f3afb.svg",
+    "main.ba520a30.css.map": "/poriyavaibhav2611/Furni/static/css/main.ba520a30.css.map",
+    "main.bf487588.js.map": "/poriyavaibhav2611/Furni/static/js/main.bf487588.js.map"
   },
   "entrypoints": [
     "static/css/main.ba520a30.css",
-    "static/js/main.b92f1f49.js"
+    "static/js/main.bf487588.js"
   ]
 }
